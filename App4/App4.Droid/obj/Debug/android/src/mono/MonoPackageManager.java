@@ -101,6 +101,7 @@ class MonoPackageManager_Resources {
 		"App4.Droid.dll",
 		"App4.dll",
 		"FormsViewGroup.dll",
+		"JarClassLibrary.dll",
 		"Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll",
 		"Microsoft.Azure.Mobile.Analytics.dll",
 		"Microsoft.Azure.Mobile.Android.Bindings.dll",

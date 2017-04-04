@@ -2,6 +2,10 @@ App4.Droid.MainActivity, App4.Droid;md598f023f3161aa0e73fceb7b106576446.MainActi
 App4.Droid.MainActivity, App4.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md598f023f3161aa0e73fceb7b106576446.MainActivity
 App4.Droid.MainActivity;md598f023f3161aa0e73fceb7b106576446.MainActivity
 app4.droid.MainActivity;md598f023f3161aa0e73fceb7b106576446.MainActivity
+Com.Squareup.Picasso.Picasso/IListenerImplementor, JarClassLibrary;mono.com.squareup.picasso.Picasso_ListenerImplementor
+Com.Squareup.Picasso.Picasso+IListenerImplementor, JarClassLibrary, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.squareup.picasso.Picasso_ListenerImplementor
+Com.Squareup.Picasso.Picasso.IListenerImplementor;mono.com.squareup.picasso.Picasso_ListenerImplementor
+mono.com.squareup.picasso.Picasso_ListenerImplementor;mono.com.squareup.picasso.Picasso_ListenerImplementor
 Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.Azure.Mobile.Analytics.Android.Bindings;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
 Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.Azure.Mobile.Analytics.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
 Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor

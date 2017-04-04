@@ -1,6 +1,7 @@
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\App4.Droid.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\App4.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\FormsViewGroup.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\JarClassLibrary.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.Analytics.Android.Bindings.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.Analytics.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.Android.Bindings.dll
