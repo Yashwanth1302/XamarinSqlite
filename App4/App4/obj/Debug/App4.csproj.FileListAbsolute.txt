@@ -1,0 +1,47 @@
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\App4.dll
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\App4.pdb
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\SQLite-net.dll
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\SQLite.Net.dll
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\SQLitePCLRaw.core.dll
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Core.dll
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\SQLite-net.xml
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Core.xml
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\obj\Debug\App4.Register.xaml.g.cs
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\obj\Debug\App4.Studentlist.xaml.g.cs
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\obj\Debug\App4.dll
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\obj\Debug\App4.pdb
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\obj\Debug\App4.csprojResolveAssemblyReference.cache
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\obj\Debug\App4.dll.mdb
+D:\Frnd\XmarineProjects\Xmarine Projects\App4\App4\App4\bin\Debug\App4.dll.mdb
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\App4.dll
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\App4.pdb
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\SQLite-net.dll
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\SQLite.Net.dll
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\SQLitePCLRaw.batteries_green.dll
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\SQLitePCLRaw.core.dll
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\Xamarin.Forms.Core.dll
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\Xamarin.Forms.Platform.dll
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\Xamarin.Forms.Xaml.dll
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\SQLite-net.xml
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\Xamarin.Forms.Core.pdb
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\Xamarin.Forms.Core.xml
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\Xamarin.Forms.Platform.pdb
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\Xamarin.Forms.Xaml.pdb
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\Xamarin.Forms.Xaml.xml
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\obj\Debug\App4.Register.xaml.g.cs
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\obj\Debug\App4.Studentlist.xaml.g.cs
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\obj\Debug\App4.dll
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\obj\Debug\App4.pdb
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\obj\Debug\App4.dll.mdb
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\App4.dll.mdb
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\obj\Debug\App4.dll.mdb
+F:\Low\WorkSpace\Xamarin\Sudha\Sqlite\App4\App4\App4\bin\Debug\App4.dll.mdb

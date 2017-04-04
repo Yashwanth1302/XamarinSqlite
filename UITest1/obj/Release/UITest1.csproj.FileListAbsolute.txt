@@ -1,0 +1,9 @@
+F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\UITest1\bin\Release\UITest1.dll
+F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\UITest1\bin\Release\UITest1.pdb
+F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\UITest1\bin\Release\nunit.framework.dll
+F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\UITest1\bin\Release\Xamarin.UITest.dll
+F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\UITest1\bin\Release\nunit.framework.xml
+F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\UITest1\bin\Release\Xamarin.UITest.xml
+F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\UITest1\obj\Release\UITest1.csprojResolveAssemblyReference.cache
+F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\UITest1\obj\Release\UITest1.dll
+F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\UITest1\obj\Release\UITest1.pdb

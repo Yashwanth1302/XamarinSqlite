@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.Analytics.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.Analytics\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.Crashes.Android.Bindings\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.Crashes\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLitePCLRaw.batteries_v2\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLitePCLRaw.core\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLitePCLRaw.lib.e_sqlite3\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLitePCLRaw.provider.e_sqlite3\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Xamarin.Forms.Platform\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Microsoft.Azure.Mobile.Analytics.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Microsoft.Azure.Mobile.Analytics\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Microsoft.Azure.Mobile.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Microsoft.Azure.Mobile.Crashes.Android.Bindings\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Microsoft.Azure.Mobile.Crashes\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Microsoft.Azure.Mobile\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\SQLite.Net.Platform.XamarinAndroid\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\SQLitePCLRaw.batteries_green\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\SQLitePCLRaw.batteries_v2\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\SQLitePCLRaw.core\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\SQLitePCLRaw.lib.e_sqlite3\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\SQLitePCLRaw.provider.e_sqlite3\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Xamarin.Forms.Platform.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj\Release\__library_projects__\Xamarin.Forms.Platform\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.Analytics.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.Analytics.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.Crashes.Android.Bindings.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.Crashes.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Microsoft.Azure.Mobile.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLite.Net.Platform.XamarinAndroid.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLitePCLRaw.batteries_green.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLitePCLRaw.batteries_v2.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLitePCLRaw.core.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLitePCLRaw.lib.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\SQLitePCLRaw.provider.e_sqlite3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Xamarin.Forms.Platform.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\App4\App4.Droid\obj\Release\__library_projects__\Xamarin.Forms.Platform.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

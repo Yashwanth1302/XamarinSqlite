@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App4.Register">
+  <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
+
+
+  <StackLayout>
+    <Label Text="Id:"/>
+    <Entry x:Name="id1" Placeholder="Enter Id"></Entry>
+    <Label Text="Name:"/>
+    <Entry x:Name="name" Placeholder="Enter Name"></Entry>
+    <Label Text="Date:"/>
+    <Entry x:Name="address" Placeholder="Enter Date"/>
+    <Label Text="PhoneNo:"/>
+    <Entry x:Name="phone" Placeholder="Enter PhoneNo"/>
+    <Button Text="Add" Clicked="adddata"/>
+    <Button Text="Update" Clicked="updatedata"/>
+    <Button Text="Get" Clicked="Getdata"/>
+    <Button Text="Show" Clicked="showdata"/>
+  </StackLayout>
+</ContentPage>
