@@ -10,7 +10,6 @@ F:\Low\WorkSpace\Xamarin\DownloadSqliteXamarin\UITest1\obj\Release\UITest1.pdb
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\UITest1.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\UITest1.pdb
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\App4.Droid.dll
-F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\nunit.framework.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\Xamarin.UITest.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\Xamarin.Forms.Core.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\Xamarin.Forms.Platform.Android.dll
@@ -32,7 +31,6 @@ F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Re
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\Microsoft.Azure.Mobile.Android.Bindings.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\Xamarin.Android.Support.v7.RecyclerView.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\App4.Droid.pdb
-F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\nunit.framework.xml
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\Xamarin.UITest.xml
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\Xamarin.Forms.Core.pdb
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\Xamarin.Forms.Core.xml
@@ -44,3 +42,5 @@ F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Re
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\obj\Release\UITest1.csprojResolveAssemblyReference.cache
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\obj\Release\UITest1.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\obj\Release\UITest1.pdb
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\nunit.framework.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\UITest1\bin\Release\nunit.framework.xml
