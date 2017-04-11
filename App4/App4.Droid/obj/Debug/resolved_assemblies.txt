@@ -8,6 +8,7 @@ F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droi
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.Crashes.Android.Bindings.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.Crashes.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\Microsoft.Azure.Mobile.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\nunit.framework.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\SQLite-net.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\SQLite.Net.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\SQLite.Net.Platform.XamarinAndroid.dll
@@ -16,6 +17,7 @@ F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droi
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\SQLitePCLRaw.core.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\SQLitePCLRaw.lib.e_sqlite3.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\System.Runtime.Loader.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\Xamarin.Android.Support.Design.dll
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\Xamarin.Android.Support.v4.dll

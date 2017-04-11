@@ -70,3 +70,9 @@ F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4\obj\
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4\bin\Release\App4.dll.mdb
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4\obj\Release\App4.dll.mdb
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4\bin\Release\App4.dll.mdb
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4\obj\Release\App4.dll.mdb
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4\bin\Release\App4.dll.mdb
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4\obj\Release\App4.dll.mdb
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4\bin\Release\App4.dll.mdb
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4\obj\Release\App4.dll.mdb
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4\bin\Release\App4.dll.mdb

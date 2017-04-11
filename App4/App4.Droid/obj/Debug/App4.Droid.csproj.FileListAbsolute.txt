@@ -482,5 +482,8 @@ F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droi
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\bin\Debug\JarClassLibrary.dll.mdb
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\App4.Droid.csprojResolveAssemblyReference.cache
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\android\assets\JarClassLibrary.dll.mdb
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\bin\Debug\nunit.framework.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\bin\Debug\System.Runtime.Loader.dll
+F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\bin\Debug\nunit.framework.xml
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\obj\Debug\App4.Droid.dll.mdb
 F:\LowFiles\WorkSpace\Xamarin\DownloadSqliteXamarin\XamarinSqlite\App4\App4.Droid\bin\Debug\App4.Droid.dll.mdb
