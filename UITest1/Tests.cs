@@ -28,7 +28,7 @@ namespace UITest1
         [Test]
         public void AppLaunches()
         {
-            app.Screenshot("First screen.");           
+            app.Screenshot("First Screen");           
         }
          [Test]
         public void EnterNames()
