@@ -29,6 +29,8 @@ namespace UITest1
         public void AppLaunches()
         {
             app.Screenshot("First screen.");
+            app.Screenshot("Second screen.");
+            app.Screenshot("Third screen.");
         }
     }
 }
