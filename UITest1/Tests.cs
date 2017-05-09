@@ -29,7 +29,9 @@ namespace UITest1
         public void AppLaunches()
         {
             app.Screenshot("First screen.");
+            app.DismissKeyboard();
             app.Screenshot("Second screen.");
+            app.DismissKeyboard();
             app.Screenshot("Third screen.");
         }
     }
