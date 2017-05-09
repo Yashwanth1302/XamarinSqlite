@@ -14,7 +14,7 @@
     <Entry x:Name="address" Placeholder="Enter Date"/>
     <Label Text="PhoneNo:"/>
     <Entry x:Name="phone" Placeholder="Enter PhoneNo"/>
-    <Button Text="Add" Clicked="adddata"/>
+    <Button Text="AddRecord" Clicked="adddata"/>
     <Button Text="Update" Clicked="updatedata"/>
     <Button Text="Get" Clicked="Getdata"/>
     <Button Text="Show" Clicked="showdata"/>
