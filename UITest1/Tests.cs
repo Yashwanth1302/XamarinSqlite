@@ -34,6 +34,24 @@ namespace UITest1
             app.DismissKeyboard();
             app.Screenshot("Third screen.");
         }
+         [Test]
+        public void EnterNames()
+        {
+            app.Screenshot("First screen.");
+            Assert.IsFalse(app.Query("StartGameButton").First().Enabled, "Button should not be enabled");
+
+            app.EnterText("Player1", "James");
+            app.DismissKeyboard();
+            app.Screenshot("Entered Player 1.");
+            Assert.IsFalse(app.Query("StartGameButton").First().Enabled, "Button should not be enabled");
+
+            app.EnterText("Player2", "Heather");
+            app.DismissKeyboard();
+
+            app.Screenshot("Entered Player 2.");
+
+            Assert.True(app.Query("StartGameButton").First().Enabled, "Button should be enabled");
+        }
     }
 }
 
